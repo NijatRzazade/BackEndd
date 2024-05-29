@@ -1,0 +1,7 @@
+C:\Users\Nicat\Desktop\İTBrainsAcademy(Continuation)\Lesson-3(again)\Lesson-3(again)\bin\Debug\Lesson-3(again).exe.config
+C:\Users\Nicat\Desktop\İTBrainsAcademy(Continuation)\Lesson-3(again)\Lesson-3(again)\bin\Debug\Lesson-3(again).exe
+C:\Users\Nicat\Desktop\İTBrainsAcademy(Continuation)\Lesson-3(again)\Lesson-3(again)\bin\Debug\Lesson-3(again).pdb
+C:\Users\Nicat\Desktop\İTBrainsAcademy(Continuation)\Lesson-3(again)\Lesson-3(again)\obj\Debug\Lesson-3(again).csproj.AssemblyReference.cache
+C:\Users\Nicat\Desktop\İTBrainsAcademy(Continuation)\Lesson-3(again)\Lesson-3(again)\obj\Debug\Lesson-3(again).csproj.CoreCompileInputs.cache
+C:\Users\Nicat\Desktop\İTBrainsAcademy(Continuation)\Lesson-3(again)\Lesson-3(again)\obj\Debug\Lesson-3(again).exe
+C:\Users\Nicat\Desktop\İTBrainsAcademy(Continuation)\Lesson-3(again)\Lesson-3(again)\obj\Debug\Lesson-3(again).pdb

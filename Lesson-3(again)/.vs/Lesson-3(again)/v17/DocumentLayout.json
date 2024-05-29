@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nicat\\Desktop\\\u0130TBrainsAcademy(Continuation)\\Lesson-3(again)\\",
+  "WorkspaceRootPath": "C:\\Users\\Nicat\\Desktop\\Backendd\\Lesson-3(again)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F13989BB-DF18-4A3E-8318-E9F6B1C10C8B}|Lesson-3(again)\\Lesson-3(again).csproj|c:\\users\\nicat\\desktop\\\u0130tbrainsacademy(continuation)\\lesson-3(again)\\lesson-3(again)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F13989BB-DF18-4A3E-8318-E9F6B1C10C8B}|Lesson-3(again)\\Lesson-3(again).csproj|c:\\users\\nicat\\desktop\\backendd\\lesson-3(again)\\lesson-3(again)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F13989BB-DF18-4A3E-8318-E9F6B1C10C8B}|Lesson-3(again)\\Lesson-3(again).csproj|solutionrelative:lesson-3(again)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nicat\\Desktop\\\u0130TBrainsAcademy(Continuation)\\Lesson-3(again)\\Lesson-3(again)\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nicat\\Desktop\\Backendd\\Lesson-3(again)\\Lesson-3(again)\\Program.cs",
               "RelativeDocumentMoniker": "Lesson-3(again)\\Program.cs",
-              "ToolTip": "C:\\Users\\Nicat\\Desktop\\\u0130TBrainsAcademy(Continuation)\\Lesson-3(again)\\Lesson-3(again)\\Program.cs",
+              "ToolTip": "C:\\Users\\Nicat\\Desktop\\Backendd\\Lesson-3(again)\\Lesson-3(again)\\Program.cs",
               "RelativeToolTip": "Lesson-3(again)\\Program.cs",
-              "ViewState": "AQIAAHUAAAAAAAAAAAAAAIwAAAALAAAA",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAKIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T11:03:08.295Z",
               "EditorCaption": ""

@@ -14,6 +14,7 @@ namespace Lesson_3_again_
 			//string name = "Eli";
 			//int x = 15;
 			//string[] BackEnd118 = { "Ferid", "R.Nicat", "H.Nicat", "Metanet" };
+			//int[] numbers = { 3, 7, 9, 2, 1, 6, 5 };
 			//Console.WriteLine(BackEnd118); Sehv
 			//for loop
 			//foreach(var x in BackEnd118 )
@@ -115,29 +116,48 @@ namespace Lesson_3_again_
 			//Console.WriteLine(decimalX);
 
 
-			Console.WriteLine("1-ci ededi daxil et:");
-			float x1 = (float)Convert.ToDouble(Console.ReadLine());
-			Console.WriteLine("2-ci ededi daxil et:");
-			float x2 = (float)Convert.ToDouble(Console.ReadLine());
-			Console.WriteLine("symbol daxil et:");
-			string symbol = Console.ReadLine();
+			//Console.WriteLine("1-ci ededi daxil et:");
+			//float x1 = (float)Convert.ToDouble(Console.ReadLine());
+			//Console.WriteLine("2-ci ededi daxil et:");
+			//float x2 = (float)Convert.ToDouble(Console.ReadLine());
+			//Console.WriteLine("symbol daxil et:");
+			//string symbol = Console.ReadLine();
 
-			switch (symbol)
+			//switch (symbol)
+			//{
+			//	case "+":
+			//		Console.WriteLine("Result :" + x1 + x2);
+			//		break;
+			//	case "-":
+			//		Console.WriteLine("Result :" + (x1 - x2));
+			//		break;
+			//	case "*":
+			//		Console.WriteLine("Result :" + x1 * x2);
+			//		break;
+			//	case "/":
+			//		Console.WriteLine("Result :" + x1 / x2);
+			//		break;
+			//	default:
+			//		Console.WriteLine("Duzgun simbol daxil edilmeyib");
+			//		break;
+			//}
+
+			DayOfWeek tarix = DateTime.Now.DayOfWeek;
+
+			const double pi = 3.14;
+
+
+			switch (tarix.ToString())
 			{
-				case "+":
-					Console.WriteLine("Result :" + x1 + x2);
+				case "Tuesday":
+					Console.WriteLine("Cersenbe axsami");
 					break;
-				case "-":
-					Console.WriteLine("Result :" + (x1 - x2));
+				case "Monday":
+					Console.WriteLine("Bazar ertesi");
 					break;
-				case "*":
-					Console.WriteLine("Result :" + x1 * x2);
-					break;
-				case "/":
-					Console.WriteLine("Result :" + x1 / x2);
-					break;
+
 				default:
-					Console.WriteLine("Duzgun simbol daxil edilmeyib");
+					Console.WriteLine("Bele heftenin gunu yoxdur");
 					break;
 			}
 		}

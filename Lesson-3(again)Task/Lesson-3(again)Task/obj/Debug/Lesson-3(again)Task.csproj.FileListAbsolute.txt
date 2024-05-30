@@ -1,0 +1,7 @@
+C:\Users\Nicat\Desktop\Backendd\Lesson-3(again)Task\Lesson-3(again)Task\obj\Debug\Lesson-3(again)Task.csproj.AssemblyReference.cache
+C:\Users\Nicat\Desktop\Backendd\Lesson-3(again)Task\Lesson-3(again)Task\obj\Debug\Lesson-3(again)Task.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\Desktop\Backendd\Lesson-3(again)Task\Lesson-3(again)Task\bin\Debug\Lesson-3(again)Task.exe.config
+C:\Users\Nicat\Desktop\Backendd\Lesson-3(again)Task\Lesson-3(again)Task\bin\Debug\Lesson-3(again)Task.exe
+C:\Users\Nicat\Desktop\Backendd\Lesson-3(again)Task\Lesson-3(again)Task\bin\Debug\Lesson-3(again)Task.pdb
+C:\Users\Nicat\Desktop\Backendd\Lesson-3(again)Task\Lesson-3(again)Task\obj\Debug\Lesson-3(again)Task.exe
+C:\Users\Nicat\Desktop\Backendd\Lesson-3(again)Task\Lesson-3(again)Task\obj\Debug\Lesson-3(again)Task.pdb

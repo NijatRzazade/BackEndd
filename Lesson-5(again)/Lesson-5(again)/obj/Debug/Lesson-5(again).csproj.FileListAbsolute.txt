@@ -1,0 +1,7 @@
+C:\Users\Nicat\Desktop\Backendd\Lesson-5(again)\Lesson-5(again)\bin\Debug\Lesson-5(again).exe.config
+C:\Users\Nicat\Desktop\Backendd\Lesson-5(again)\Lesson-5(again)\bin\Debug\Lesson-5(again).exe
+C:\Users\Nicat\Desktop\Backendd\Lesson-5(again)\Lesson-5(again)\bin\Debug\Lesson-5(again).pdb
+C:\Users\Nicat\Desktop\Backendd\Lesson-5(again)\Lesson-5(again)\obj\Debug\Lesson-5(again).csproj.AssemblyReference.cache
+C:\Users\Nicat\Desktop\Backendd\Lesson-5(again)\Lesson-5(again)\obj\Debug\Lesson-5(again).csproj.CoreCompileInputs.cache
+C:\Users\Nicat\Desktop\Backendd\Lesson-5(again)\Lesson-5(again)\obj\Debug\Lesson-5(again).exe
+C:\Users\Nicat\Desktop\Backendd\Lesson-5(again)\Lesson-5(again)\obj\Debug\Lesson-5(again).pdb

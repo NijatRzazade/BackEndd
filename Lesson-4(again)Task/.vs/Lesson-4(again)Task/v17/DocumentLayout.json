@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nicat\\Desktop\\Backendd\\Lesson-4(again)Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36616825-3213-49F0-A16F-2679EA81F756}|Lesson-4(again)Task\\Lesson-4(again)Task.csproj|c:\\users\\nicat\\desktop\\backendd\\lesson-4(again)task\\lesson-4(again)task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36616825-3213-49F0-A16F-2679EA81F756}|Lesson-4(again)Task\\Lesson-4(again)Task.csproj|solutionrelative:lesson-4(again)task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nicat\\Desktop\\Backendd\\Lesson-4(again)Task\\Lesson-4(again)Task\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson-4(again)Task\\Program.cs",
+              "ToolTip": "C:\\Users\\Nicat\\Desktop\\Backendd\\Lesson-4(again)Task\\Lesson-4(again)Task\\Program.cs",
+              "RelativeToolTip": "Lesson-4(again)Task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:29:42.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
